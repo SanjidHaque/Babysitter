@@ -1,0 +1,41 @@
+﻿@model int
+@{
+    ViewBag.Title = "SavingNewChildren";
+    Layout = "~/Views/Shared/BabySitterDefaultlayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-10 col-md-offset-1 successMessage">
+        You have successfully added a new employer's information!
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8 col-md-offset-2" >
+        <div class="col-md-6">
+            @using (Html.BeginForm("ViewEmployers", "BabySitter", new { empId = Model }))
+            {
+                <div>
+                    <button type="submit" class="newEmpButton2">Show the employers list</button>
+                </div>
+            }
+        </div>
+        <div class="col-md-6">
+
+            @using (Html.BeginForm("AddingNewChildren", "BabySitter", new { empId = Model }))
+            {
+
+                <div>
+                    <button type="submit" class="newEmpButton2">Add another child of the employer</button>
+                </div>
+
+
+            }
+        </div>
+    </div>
+    
+</div>
+
+
+
+

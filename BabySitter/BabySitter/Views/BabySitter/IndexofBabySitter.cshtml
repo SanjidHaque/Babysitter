@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/BabySitterDefaultlayout.cshtml";
+}
+
+ 
+<div class="row">
+    <div class="col-md-offset-1 col-md-8">
+        <div class="col-md-12 SignBoard">
+            <div class="hello"> Hello!</div>
+            <div class="upcoming"> Up and Coming Babysitter!</div>
+            <div class="row">
+                <div class=" col-md-9 descrptn"> This is a simple application where you can...</div>
+                <div class="col-md-3"><button class="learnmore" onclick="location.href='@Url.Action("LearnMore","BabySitter") '">Learn More!</button></div> 
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+             

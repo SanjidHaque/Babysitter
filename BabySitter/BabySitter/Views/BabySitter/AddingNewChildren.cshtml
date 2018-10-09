@@ -1,0 +1,46 @@
+﻿@model BabySitter.Models.NewChildrenCount
+@{
+    ViewBag.Title = "AddingNewChildren";
+    Layout = "~/Views/Shared/BabySitterDefaultlayout.cshtml";
+}
+
+<h2 class="ViewEmp">Add new employer's children</h2>
+
+    <div class="row">
+        <div class="col-md-4 col-md-offset-4 settingUptheForm">
+            @using (Html.BeginForm("SavingNewChildren", "BabySitter", new {empId = Model.EmpId}))
+            {
+                
+                    <div class="form-group">
+                        <label for="AddNewEmployerViewModel.ChildName" class="empLabel">Child's name</label>
+                        @Html.TextBoxFor(m => m.AddNewEmployerViewModel.ChildName, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.AddNewEmployerViewModel.ChildName)
+                    </div>
+                    <div class="form-group">
+
+                        <label for="AddNewEmployerViewModel.ChildAge" class="empLabel">Child's Age</label>
+                        @Html.TextBoxFor(m => m.AddNewEmployerViewModel.ChildAge, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.AddNewEmployerViewModel.ChildAge)
+                    </div>
+                    <div class="form-group">
+
+                        <label for="AddNewEmployerViewModel.ChildHeath" class="empLabel">Child's health condition</label>
+                        @Html.TextBoxFor(m => m.AddNewEmployerViewModel.ChildHeath, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.AddNewEmployerViewModel.ChildHeath)
+                    </div>
+                    <div class="form-group">
+
+                        <label for="AddNewEmployerViewModel.ChildInterest" class="empLabel">Child's special interest</label>
+                        @Html.TextBoxFor(m => m.AddNewEmployerViewModel.ChildInterest, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.AddNewEmployerViewModel.ChildInterest)
+                    </div>
+
+               
+                <div>
+                    <button type="submit" class="newEmpButton">Save</button>
+                </div>
+
+
+            }
+       </div>
+    </div>

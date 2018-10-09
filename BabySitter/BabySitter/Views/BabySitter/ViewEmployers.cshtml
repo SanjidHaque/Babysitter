@@ -1,0 +1,100 @@
+﻿@model List<BabySitter.Models.Employer>
+@{
+    ViewBag.Title = "View Employers";
+    Layout = "~/Views/Shared/BabySitterDefaultlayout.cshtml";
+    int i = 1,j;
+}
+
+<h2 class="ViewEmp">List of employers</h2>
+
+<div class="row">
+    <div class="col-md-8 col-md-offset-2">
+        @foreach (var employers in Model)
+        {
+            
+                j = 1;
+                <div class="panel panel-default wholePanel">
+                    <div class="panel-heading empInfo">
+                        <div class="panel-heading empNo">
+                            Employer No: @i
+                        </div>
+                        Employer's Information
+
+                    </div>
+                    <div class="panel-body ">
+
+                        <div class="empBody">
+                            <div>Employer's Name: @employers.name</div>
+                            <div>Employer's Address: @employers.Address</div>
+                            <div>Employer's Cellnumber: @employers.cellNumber</div>
+
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="panel panel-default  ">
+                                    <div class="panel-heading ChildInfo"> @employers.name's Child's Informations</div>
+                                    <div class="panel-body children-panel">
+
+                                        @foreach (var child in employers.Children)
+                                        {
+                                            <div class="panel panel-default ">
+                                                <div class="panel-heading ChildNo"> @employers.name's Child No: @j</div>
+                                                <div class="panel-body">
+                                                    <div class="childDetails">
+                                                        <div>Child's Name: @child.name </div>
+                                                        <div>Child's Age: @child.Age </div>
+                                                        <div>Child's Heath Condition: @child.Health </div>
+                                                        <div>Child Special Interest: @child.Interest </div>
+                                                    </div>
+
+
+                                                </div>
+                                            </div>
+
+                                            j++;
+                                        }
+                                    </div>
+
+
+                                </div>
+
+
+
+
+
+                                <div class="row">
+
+                                    <div class="col-md-12">
+                                        <div class="panel panel-default">
+                                            <div class="panel-heading EmerCont"> @employers.name's Emergency Contact's Informations</div>
+                                            <div class="panel-body">
+                                                <div class="EmerContDetails">
+                                                    <div> Emergency Contact's Name: @employers.EmergencyContact.name</div>
+                                                    <div> Emergency Contact's Cellnumber: @employers.EmergencyContact.cellNumber</div>
+                                                    <div> Emergency Contact's Relation with @employers.name: @employers.EmergencyContact.Relation</div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                i++;
+           
+           
+           }
+    </div>
+</div>
+
+
+

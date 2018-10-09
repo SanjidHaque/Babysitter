@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+       
+        <title> @ViewBag.Title | BabySitter</title>
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+    </head>
+    <body class="bodyColor">
+        <div class="container-fluid">
+            <div class="row ">
+                <div class="bigRow">
+                    <div class="col-md-12 r1">
+                        <div class="col-md-3 Bigtitle">
+                            @Html.ActionLink("Babysitter", "IndexofBabySitter", "BabySitter", null, new { @class = "babysitterSub" })
+                        </div>
+                        <div class="col-md-9">
+                            <div class="col-md-10 col-md-offset-2">
+                                <div class="col-md-4 options">
+                                    @Html.ActionLink("View Employers", "ViewEmployers", "BabySitter", null, new { @class = "babysitterOptions" })
+                                </div>
+                                <div class="col-md-4 options">
+                                    @Html.ActionLink("Add Employers", "AddEmployers", "BabySitter", null, new { @class = "babysitterOptions" })
+                                </div>
+                                <div class="col-md-4 options">
+                                    @Html.ActionLink("Delete Employers", "DeleteEmployers", "BabySitter", null, new { @class = "babysitterOptions" })
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>    
+                </div>
+        
+            </div>
+            
+        </div>
+    
+        <div class="container body-content">
+            @RenderBody()
+            <hr class="f1"/>
+
+            <footer>
+                <div class="copyRight">&copy; @DateTime.Now.Year-My New Application</div>
+            </footer>
+        </div>
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/jqueryval")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+    </body>
+
+</html>
+

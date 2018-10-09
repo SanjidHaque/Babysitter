@@ -1,0 +1,35 @@
+﻿@model List<BabySitter.Models.Employer>
+@{
+    ViewBag.Title = "Delete Employers";
+    Layout = "~/Views/Shared/BabySitterDefaultlayout.cshtml";
+    int i = 1;
+}
+
+<h2 class="ViewEmp">Delete an employer</h2>
+
+<div class="row">
+    <div class="col-md-6 col-md-offset-3 wholeDeleteBody">
+      @foreach (var emp in Model)
+      {
+          <div class="col-md-12 wholeDeleteBodySub">
+              <div class="col-md-2 deletedEmpNo">
+                  @i .
+              </div>
+              <div class="col-md-5 deletedEmpName">
+                  @emp.name
+              </div>
+              <div class="col-md-2 col-md-offset-3">
+                  @using (Html.BeginForm("AfterDeletingEmployers", "BabySitter", new { empId = emp.Id }))
+                  {
+                      <button type="submit" class="newEmpButton3">Delete</button>
+                  }
+              </div>
+
+
+          </div>
+         i++;
+
+
+      }
+    </div>
+</div>

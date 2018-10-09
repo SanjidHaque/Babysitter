@@ -1,0 +1,355 @@
+﻿.r1 {
+    background-color: #550909;
+    margin-top: -50px;
+    height: 100px
+}
+
+.copyRight {
+    color: white;
+    padding-left: 40px;
+}
+
+.babysitterSub {
+    font-family: Comic Sans MS;
+    font-size: 56px;
+    color: lightyellow;
+    text-decoration: none;
+    
+}
+
+.Bigtitle {
+    padding-left: 30px;
+    padding-top: 15px;
+ 
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.f1 {
+    margin-top: 100px;
+}
+.babysitterSub:hover {
+    color: #E6C2C2;
+    text-decoration: none;
+}
+
+.babysitterOptions {
+    font-family: Georgia;
+    font-size: 18px;
+    color: lightyellow;
+    text-decoration: none;
+}
+.babysitterOptions:hover {
+    color: #E6C2C2;
+    text-decoration: none;
+}
+
+.options {
+    padding-top: 60px;
+}
+
+.bodyColor {
+    background-color: #642020;
+}
+
+.ViewEmp {
+    text-align: center;
+    color: white;
+
+}
+.empInfo {
+    text-align: center;
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: bold;
+   
+}
+
+.empNo {
+    font-size: 20px;
+   
+}
+
+.children-panel {
+    padding: 0px;
+}
+
+.children-panel .panel {
+    margin-bottom: 0px;
+}
+
+.ChildInfo {
+    text-align: center;
+  
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+.ChildNo {
+    text-align: center;
+   
+    font-size: 13px;
+    font-weight: bold;
+
+}
+
+.EmerCont {
+    text-align: center;
+    
+    font-size: 15px;
+    font-weight: bold;
+    
+
+}
+
+.wholePanel {
+    border: 1px solid black;
+    margin-bottom: 70px
+}
+
+.empBody {
+    padding: 1px 0px 18px 0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.childDetails {
+    text-align: center;
+   font-weight: bold;
+    font-size: 13px;
+}
+
+.EmerContDetails {
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.SignBoard {
+    border: 1px solid #550909;
+    height: 360px;
+    width: 700px;
+    background-color: #B5B1B1;
+    border-radius: 20px;
+    margin-top: 30px;
+   
+}
+.hello {
+    font-family: sans-serif;
+    font-size: 76px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.upcoming {
+    font-family: sans-serif;
+    font-size: 36px;
+    padding-left: 50px;
+    padding-top: 10px;
+    margin-top: -11px;
+}
+
+
+.learnmore {
+    height: 46.1px;
+    width: 100px;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 14.5px;
+    color: white;
+    background-color: #550909;
+    border-color: #550909;
+    font-family: Tahoma;
+    margin-left: -134px;
+    margin-top: 53px;
+}
+ 
+.learnmore:focus {
+    outline: 0;
+}
+
+.learnmore:hover {
+        color: #E6C2C2;
+
+}
+
+
+.descrptn {
+    padding-left: 65px;
+    margin-top: 60px;
+    font-size: 17.6px;
+    font-family: Times;
+    font-weight: bold;
+}
+
+.about {
+    font-family: Arial;
+    font-size: 40px;
+    text-align: left;
+    margin-top: 12px;
+    color: white;
+}
+
+.aboutdescrtn {
+    font-family: Verdana;    
+    text-align: left;
+    margin-top: 12px;
+    color: white;
+}
+
+.empLabel {
+    color: white;
+}
+
+.newEmpButton {
+    background-color: #f6fafa;
+    color: #642020;
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: bold;
+    border: 1px solid  #642020;
+    height: 35px;
+    width: 70px;
+    border-radius: 7px;
+    margin-left: 210px;
+    margin-top: 10px;
+}
+
+    .newEmpButton:hover {
+        background-color: #642020;
+        color: white;
+        border-radius: 7px;
+        border-color: white;
+      
+    }
+   
+
+.newEmpButton:focus {
+    outline: 0;
+}
+
+.newEmpButton2 {
+    background-color: #f6fafa;
+    color: #642020;
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: bold;
+    border: 1px solid  #642020;
+    height: 35px;
+    width: 270px;
+    border-radius: 7px;
+    margin-left: 61px;
+    margin-top: 19px;
+}
+
+ .newEmpButton2:hover {
+        background-color: #642020;
+        color: white;
+        border-radius: 7px;
+        border-color: white;
+      
+    }
+   
+
+.newEmpButton2:focus {
+    outline: 0;
+}
+.successMessage {
+    height: 150px;
+    width: 645px;
+    background-color: white;
+    text-align: center;
+    border: 1px solid whitesmoke;
+    border-radius: 8px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #642020;
+    margin-left: 287px;
+    font-size: 29px;
+    box-shadow: inset 0 0 60px #550909;
+    padding-top: 25px;
+
+}
+
+.wholeDeleteBody {
+    background-color: white;
+    border: 1px solid  #642020;
+    border-radius: 10px;
+    box-shadow: inset 0 0 60px #550909;
+
+}
+
+.newEmpButton3{
+    background-color: #f6fafa;
+    color: #642020;
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: bold;
+    border: 1px solid  #642020;
+    height: 35px;
+    width: 70px;
+    border-radius: 7px;
+    margin-left: 1px;
+    margin-top: 19px;
+}
+
+ .newEmpButton3:hover {
+        background-color: #642020;
+        color: white;
+        border-radius: 7px;
+        border-color: white;
+      
+    }
+   
+
+.newEmpButton3:focus {
+    outline: 0;
+}
+.deletedEmpName {
+    color:  #642020;
+    font-family: Arial;
+    text-align: left;
+    margin-top: 25px;
+    font-weight: bold;
+    font-size: 17px;
+   
+}
+
+.wholeDeleteBodySub {
+    border-bottom: 1px solid #d8caca;
+
+}
+
+.deletedEmpNo {
+     color:  #642020;
+    font-family: Arial;
+    text-align: right;
+    margin-top: 25px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.settingUptheForm {
+    padding-left: 59px;
+}
+
+ul, menu {
+
+padding: 10px;
+}
+
+
+
+.field-validation-error {
+    color: #e7ec8d;
+}
+
+
+/*@media all and (min-width:220px) and (max-width: 1170px) {
+    .container {
+        height: 100%;
+        width: 100%;
+    }
+}*/

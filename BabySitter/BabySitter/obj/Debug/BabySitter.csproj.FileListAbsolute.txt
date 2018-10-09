@@ -1,0 +1,531 @@
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\BabySitter.dll.config
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\BabySitter.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\BabySitter.pdb
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Antlr3.Runtime.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\EntityFramework.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\EntityFramework.SqlServer.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Web.Infrastructure.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Newtonsoft.Json.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Owin.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Helpers.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Mvc.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Optimization.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Razor.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\WebGrease.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Helpers.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Mvc.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Optimization.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Razor.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Newtonsoft.Json.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Antlr3.Runtime.pdb
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\EntityFramework.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\EntityFramework.SqlServer.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.csprojResolveAssemblyReference.cache
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.dll
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.pdb
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpChildECont.resources
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.csproj.GenerateResource.Cache
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmerContForeignKey.resources
+H:\SanjidTemp19Oct2017\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpsChildre.resources
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\BabySitter.dll.config
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\BabySitter.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\BabySitter.pdb
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Antlr3.Runtime.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\EntityFramework.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\EntityFramework.SqlServer.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Newtonsoft.Json.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Owin.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Helpers.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Mvc.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Optimization.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Razor.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\WebGrease.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Helpers.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Mvc.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Optimization.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Razor.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Newtonsoft.Json.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Antlr3.Runtime.pdb
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\EntityFramework.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\EntityFramework.SqlServer.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.csprojResolveAssemblyReference.cache
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpChildECont.resources
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmerContForeignKey.resources
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpsChildre.resources
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.csproj.GenerateResource.Cache
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.pdb
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\BabySitter.dll.config
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\BabySitter.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\BabySitter.pdb
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Antlr3.Runtime.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\EntityFramework.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\EntityFramework.SqlServer.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Web.Infrastructure.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Newtonsoft.Json.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Owin.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Helpers.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Mvc.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Optimization.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Razor.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\WebGrease.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Helpers.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Mvc.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Optimization.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.Razor.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Newtonsoft.Json.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Antlr3.Runtime.pdb
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\EntityFramework.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\EntityFramework.SqlServer.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.csprojResolveAssemblyReference.cache
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpChildECont.resources
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmerContForeignKey.resources
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpsChildre.resources
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.csproj.GenerateResource.Cache
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.dll
+H:\SanjidTemp22Oct2017\BabySitter Part One\BabySitter\BabySitter\obj\Debug\BabySitter.pdb
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\BabySitter.dll.config
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\BabySitter.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\BabySitter.pdb
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Antlr3.Runtime.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\EntityFramework.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\EntityFramework.SqlServer.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Security.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Newtonsoft.Json.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Owin.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\System.Web.Helpers.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\System.Web.Mvc.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\System.Web.Optimization.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\System.Web.Razor.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\System.Web.WebPages.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\WebGrease.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\System.Web.Helpers.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\System.Web.Mvc.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\System.Web.Optimization.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\System.Web.Razor.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\System.Web.WebPages.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Newtonsoft.Json.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Antlr3.Runtime.pdb
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\EntityFramework.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\EntityFramework.SqlServer.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Security.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\obj\Debug\BabySitter.csprojResolveAssemblyReference.cache
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpChildECont.resources
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmerContForeignKey.resources
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpsChildre.resources
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\obj\Debug\BabySitter.csproj.GenerateResource.Cache
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\obj\Debug\BabySitter.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Two\BabySitter\BabySitter\obj\Debug\BabySitter.pdb
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.dll.config
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.pdb
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Antlr3.Runtime.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.SqlServer.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Web.Infrastructure.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Newtonsoft.Json.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Owin.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Helpers.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Mvc.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Optimization.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Razor.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\WebGrease.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Helpers.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Mvc.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Optimization.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Razor.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Newtonsoft.Json.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Antlr3.Runtime.pdb
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.SqlServer.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.csprojResolveAssemblyReference.cache
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpChildECont.resources
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmerContForeignKey.resources
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpsChildre.resources
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.csproj.GenerateResource.Cache
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.dll
+I:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.pdb
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.dll.config
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.pdb
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Antlr3.Runtime.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.SqlServer.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Web.Infrastructure.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Newtonsoft.Json.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Owin.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Helpers.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Mvc.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Optimization.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Razor.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\WebGrease.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Helpers.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Mvc.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Optimization.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Razor.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Newtonsoft.Json.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Antlr3.Runtime.pdb
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.SqlServer.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.csprojResolveAssemblyReference.cache
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpChildECont.resources
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmerContForeignKey.resources
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpsChildre.resources
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.csproj.GenerateResource.Cache
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.dll
+H:\SanjidTemp24Oct2017\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.pdb
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.dll.config
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.pdb
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Antlr3.Runtime.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.SqlServer.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Newtonsoft.Json.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Owin.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Helpers.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Mvc.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Optimization.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Razor.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\WebGrease.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Helpers.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Mvc.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Optimization.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Razor.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Newtonsoft.Json.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Antlr3.Runtime.pdb
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.SqlServer.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.csprojResolveAssemblyReference.cache
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpChildECont.resources
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmerContForeignKey.resources
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpsChildre.resources
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.csproj.GenerateResource.Cache
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.pdb
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.dll.config
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.pdb
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Antlr3.Runtime.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.SqlServer.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Web.Infrastructure.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Newtonsoft.Json.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Owin.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Helpers.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Mvc.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Optimization.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Razor.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\WebGrease.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Helpers.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Mvc.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Optimization.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Razor.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Newtonsoft.Json.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Antlr3.Runtime.pdb
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.SqlServer.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.csprojResolveAssemblyReference.cache
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpChildECont.resources
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmerContForeignKey.resources
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpsChildre.resources
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.csproj.GenerateResource.Cache
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.dll
+H:\SanjidTemp26Oct2017\BabySitter Part Three\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.pdb
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.dll.config
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\BabySitter.pdb
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Antlr3.Runtime.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.SqlServer.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Newtonsoft.Json.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Owin.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Helpers.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Mvc.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Optimization.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Razor.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\WebGrease.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Helpers.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Mvc.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Optimization.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.Razor.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\System.Web.WebPages.Razor.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Newtonsoft.Json.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Antlr3.Runtime.pdb
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\EntityFramework.SqlServer.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.csprojResolveAssemblyReference.cache
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpChildECont.resources
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmerContForeignKey.resources
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.Migrations.AddingEmpsChildre.resources
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.csproj.GenerateResource.Cache
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.dll
+D:\Documents\C#'s Baby\Asp DOT Net MVC Web Applications\BabySitter Part Four(Full Completed)\BabySitter Part Three\BabySitter\BabySitter\obj\Debug\BabySitter.pdb
